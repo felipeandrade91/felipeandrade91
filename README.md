@@ -35,6 +35,11 @@ A curated collection of data analysis and machine learning projects.
 🔗 Repository:
 https://github.com/felipeandrade91/data-science-portfolio
 
+### Meu Placar - Sports Analytics Dashboard
+
+**Repository:**  
+🔗 https://github.com/felipeandrade91/meuplacar
+
 ### Random Forest Classification of Bioacoustic Data
 Machine learning and statistical analysis applied to real-world biological datasets.
 
