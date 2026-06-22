@@ -1,6 +1,6 @@
 # Hi, I'm Felipe Andrade 👋
 
-**Data Analyst | R | Python | SQL | Statistics | Machine Learning**
+**Data Analyst | R | Python | SQL | Statistics | Machine Learning | Power BI**
 
 PhD researcher with 15+ years of experience applying statistical analysis, machine learning, and quantitative methods to solve complex real-world problems.
 
@@ -23,6 +23,7 @@ Currently transitioning from academic research to Data Analytics and Data Scienc
 - R
 - Python
 - SQL
+- Power BI
 - Git
 - GitHub
 - Excel
@@ -35,7 +36,14 @@ A curated collection of data analysis and machine learning projects.
 🔗 Repository:
 https://github.com/felipeandrade91/data-science-portfolio
 
+### Brazilian Anuran Divesrity Dashboard
+Interactive Power BI dashboard exploring the spatial and temporal patterns of Brazilian anuran diversity using GBIF occurrence records.
+
+**Repository:**  
+🔗 https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard
+
 ### Meu Placar - Sports Analytics Dashboard
+An interactive web application designed to track and analyze personal football performance through data visualization, KPIs, and historical statistics.
 
 **Repository:**  
 🔗 https://github.com/felipeandrade91/meuplacar
