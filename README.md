@@ -36,6 +36,12 @@ A curated collection of data analysis and machine learning projects.
 🔗 Repository:
 https://github.com/felipeandrade91/data-science-portfolio
 
+### GBIF Amphibian Data Pipeline
+This project presents an end-to-end data engineering pipeline built on amphibian occurrence records retrieved from the Global Biodiversity Information Facility (GBIF).
+
+🔗 Repository:
+https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline
+
 ### Brazilian Anuran Divesrity Dashboard
 Interactive Power BI dashboard exploring the spatial and temporal patterns of Brazilian anuran diversity using GBIF occurrence records.
 
