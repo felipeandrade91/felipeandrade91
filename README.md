@@ -42,6 +42,12 @@ This project presents an end-to-end data engineering pipeline built on amphibian
 🔗 Repository:
 https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline
 
+### GBIF Amphibian Data Analysis (Python EDA)
+This project presents an exploratory and statistical analysis of amphibian occurrence records in Brazil using a cleaned dataset derived from GBIF.
+
+Repository:
+🔗 https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis
+
 ### Brazilian Anuran Divesrity Dashboard
 Interactive Power BI dashboard exploring the spatial and temporal patterns of Brazilian anuran diversity using GBIF occurrence records.
 
