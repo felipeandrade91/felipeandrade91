@@ -27,8 +27,19 @@ Currently transitioning from academic research to Data Analytics and Data Scienc
 - Git
 - GitHub
 - Excel
+- PostgreSQL
+- DBeaver
+- DAX
+- Star Schema
+- Analytics Engineering
 
 ## Featured Projects
+
+### Customer Analytics for Brazilian E-commerce
+An end-to-end Analytics Engineering and Business Intelligence project built using PostgreSQL, SQL and Power BI.
+
+🔗 Repository:
+https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
 
 ### Data Science Portfolio
 A curated collection of data analysis and machine learning projects.
