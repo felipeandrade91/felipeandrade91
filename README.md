@@ -1,10 +1,12 @@
 # Hi, I'm Felipe Andrade
 
-**Data Analyst | SQL | PostgreSQL | Power BI | Analytics Engineering | Python | R | Statistics | Machine Learning**
+**Data Analyst | SQL | PostgreSQL | Python | Power BI | Customer Analytics | Analytics Engineering**
 
-I'm a **Data Analyst** and **PhD researcher** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Power BI, Python, statistics, and machine learning.
+I'm a **Data Analyst** and **PhD researcher** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
 
 My scientific background has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows.
+
+Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, and Customer Analytics**.
 
 **Applying scientific rigor and analytical thinking to solve business problems through modern data analytics.**
 
@@ -20,12 +22,17 @@ My scientific background has strengthened my analytical thinking, hypothesis-dri
 * DAX
 * Power Query (M)
 * Analytics Engineering
+* Customer Analytics
+* Customer Segmentation
+* Customer Lifetime Value (CLV)
 * Star Schema
 * Data Modeling
 
 ### Programming & Analytics
 
 * Python
+* Pandas
+* Matplotlib
 * R
 * Statistics
 * Machine Learning
@@ -46,23 +53,35 @@ My scientific background has strengthened my analytical thinking, hypothesis-dri
 End-to-end Analytics Engineering and Business Intelligence project built with PostgreSQL, SQL, and Power BI, featuring a Star Schema data model, SQL semantic layer, business KPIs, and interactive executive dashboards.
 
 🔗 **Repository**
+
 https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
+
+---
+
+## ⭐ Customer Segmentation & Customer Lifetime Value Analytics
+
+Customer Analytics project built with PostgreSQL, SQL, and Python, extending the previous analytical foundation through customer feature engineering, RFM segmentation, Historical Customer Lifetime Value (CLV) analysis, and business-oriented data visualization.
+
+🔗 **Repository**
+
+https://github.com/felipeandrade91/customer-segmentation-clv
 
 ---
 
 ## 📂 Data Analytics Portfolio
 
-A curated collection of my Business Intelligence, Analytics Engineering, SQL, Python, Power BI, Machine Learning, and Statistical Analysis projects.
+A curated collection of my Business Intelligence, Analytics Engineering, Customer Analytics, SQL, Python, Power BI, Statistical Analysis, and Machine Learning projects.
 
 🔗 **Repository**
+
 https://github.com/felipeandrade91/Data-Analytics-Portfolio
 
 ---
 
 ## Scientific Background
 
-* PhD in Animal Biology UNICAMP
-* Postdoctoral researcher USP
+* PhD in Animal Biology (UNICAMP)
+* Postdoctoral Researcher (USP)
 * 28 peer-reviewed scientific publications
 * Description of 13 new amphibian species
 * 15+ years working with complex real-world datasets
@@ -74,4 +93,3 @@ https://github.com/felipeandrade91/Data-Analytics-Portfolio
 💼 **LinkedIn**
 
 https://linkedin.com/in/felipeandrade91
-
