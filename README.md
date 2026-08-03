@@ -68,6 +68,14 @@ https://github.com/felipeandrade91/customer-segmentation-clv
 
 ---
 
+## ⭐ Customer Churn Prediction
+
+An end-to-end Machine Learning project to predict customer churn using the IBM Telco Customer Churn dataset. The project demonstrates the complete data science workflow, including SQL data preparation, exploratory data analysis, feature engineering, predictive modeling, model evaluation and business interpretation.
+
+https://github.com/felipeandrade91/customer-churn-prediction
+
+---
+
 ## 📂 Data Analytics Portfolio
 
 A curated collection of my Business Intelligence, Analytics Engineering, Customer Analytics, SQL, Python, Power BI, Statistical Analysis, and Machine Learning projects.
