@@ -1,12 +1,12 @@
 # Hi, I'm Felipe Andrade
 
-**Data Analyst | SQL | PostgreSQL | Python | Power BI | Customer Analytics | Analytics Engineering**
+**Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Customer Analytics | Analytics Engineering**
 
 I'm a **Data Analyst** and **PhD researcher** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
 
 My scientific background has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows.
 
-Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, and Customer Analytics**.
+Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, Customer Analytics, and Machine Learning**.
 
 **Applying scientific rigor and analytical thinking to solve business problems through modern data analytics.**
 
@@ -36,6 +36,11 @@ Today, I apply these skills to solve business problems in **Business Intelligenc
 * R
 * Statistics
 * Machine Learning
+* Scikit-learn
+* XGBoost
+* Time Series Forecasting
+* Predictive Modeling
+* Feature Engineering
 
 ### Tools
 
@@ -76,9 +81,19 @@ https://github.com/felipeandrade91/customer-churn-prediction
 
 ---
 
+## ⭐ Sales Forecasting with Machine Learning - Rossmann Stores
+
+An end-to-end machine learning project for retail sales forecasting using the Rossmann Store Sales dataset. The project covers exploratory time series analysis, temporal feature engineering, regression modeling, and model interpretation using Linear Regression, Random Forest, and XGBoost.
+
+🔗 **Repository**
+
+https://github.com/felipeandrade91/sales-forecasting-rossmann
+
+---
+
 ## 📂 Data Analytics Portfolio
 
-A curated collection of my Business Intelligence, Analytics Engineering, Customer Analytics, SQL, Python, Power BI, Statistical Analysis, and Machine Learning projects.
+A curated collection of my Business Intelligence, Analytics Engineering, Customer Analytics, Machine Learning, Time Series Forecasting, SQL, Python, and Power BI projects.
 
 🔗 **Repository**
 
