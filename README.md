@@ -38,6 +38,11 @@ Today, I apply these skills to solve business problems in **Business Intelligenc
 * Machine Learning
 * Scikit-learn
 * XGBoost
+* FastAPI
+* REST APIs
+* Docker
+* Docker Compose
+* Model Deployment
 * Time Series Forecasting
 * Predictive Modeling
 * Feature Engineering
@@ -78,6 +83,16 @@ https://github.com/felipeandrade91/customer-segmentation-clv
 An end-to-end Machine Learning project to predict customer churn using the IBM Telco Customer Churn dataset. The project demonstrates the complete data science workflow, including SQL data preparation, exploratory data analysis, feature engineering, predictive modeling, model evaluation and business interpretation.
 
 https://github.com/felipeandrade91/customer-churn-prediction
+
+---
+
+## ⭐ Customer Churn Prediction API
+
+Containerized REST API for customer churn prediction using **FastAPI, Scikit-learn, Docker, and Docker Compose**. The project demonstrates model deployment, input validation, automated testing, and containerized inference using the trained machine learning pipeline from the Customer Churn Prediction project.
+
+🔗 **Repository**
+
+https://github.com/felipeandrade91/customer-churn-api
 
 ---
 
