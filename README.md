@@ -1,12 +1,12 @@
 # Hi, I'm Felipe Andrade
 
-**Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Customer Analytics | Analytics Engineering**
+**Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Data Engineering | Customer Analytics | Analytics Engineering**
 
 I'm a **Data Analyst** and **PhD** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
 
 My scientific background has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows.
 
-Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, Customer Analytics, and Machine Learning**.
+Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, Customer Analytics, Machine Learning, and Data Engineering**.
 
 **Applying scientific rigor and analytical thinking to solve business problems through modern data analytics.**
 
@@ -46,6 +46,13 @@ Today, I apply these skills to solve business problems in **Business Intelligenc
 * Time Series Forecasting
 * Predictive Modeling
 * Feature Engineering
+* PySpark
+* Databricks
+* Delta Lake
+* Data Pipelines
+* Medallion Architecture
+* Incremental Processing
+
 
 ### Tools
 
@@ -65,6 +72,16 @@ End-to-end Analytics Engineering and Business Intelligence project built with Po
 🔗 **Repository**
 
 https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
+
+---
+
+## ⭐ NYC Taxi Data Engineering Platform
+
+End-to-end Data Engineering pipeline built with **Databricks, PySpark, and Delta Lake**, processing more than 38 million NYC Yellow Taxi trips through a Medallion Architecture. The project demonstrates scalable data ingestion, incremental processing, data quality validation, dimensional modeling, and analytical data preparation.
+
+🔗 **Repository**
+
+https://github.com/felipeandrade91/nyc-taxi-data-engineering
 
 ---
 
@@ -108,7 +125,7 @@ https://github.com/felipeandrade91/sales-forecasting-rossmann
 
 ## 📂 Data Analytics Portfolio
 
-A curated collection of my Business Intelligence, Analytics Engineering, Customer Analytics, Machine Learning, Time Series Forecasting, SQL, Python, and Power BI projects.
+A curated collection of my **Data Analytics, Business Intelligence, Analytics Engineering, Data Engineering, Machine Learning, Customer Analytics, SQL, Python, and Power BI** projects.
 
 🔗 **Repository**
 
