@@ -1,12 +1,12 @@
 # Hi, I'm Felipe Andrade
 
-**Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Data Engineering | Customer Analytics | Analytics Engineering**
+**Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Data Engineering | Customer Analytics | Analytics Engineering | Causal Inference | Experimentation**
 
 I'm a **Data Analyst** and **PhD** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
 
 My scientific background has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows.
 
-Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, Customer Analytics, Machine Learning, and Data Engineering**.
+Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, Customer Analytics, Machine Learning, Data Engineering, and Causal Inference & Experimentation**.
 
 **Applying scientific rigor and analytical thinking to solve business problems through modern data analytics.**
 
@@ -35,6 +35,13 @@ Today, I apply these skills to solve business problems in **Business Intelligenc
 * Matplotlib
 * R
 * Statistics
+* A/B Testing
+* Causal Inference
+* Treatment Effect Estimation
+* Double Machine Learning
+* Causal Forest
+* Propensity Score Matching
+* Incrementality Analysis
 * Machine Learning
 * Scikit-learn
 * XGBoost
@@ -110,6 +117,16 @@ Containerized REST API for customer churn prediction using **FastAPI, Scikit-lea
 🔗 **Repository**
 
 https://github.com/felipeandrade91/customer-churn-api
+
+---
+
+## ⭐ Causal Inference & Experimentation
+
+A practical causal inference project evaluating the incremental impact of digital advertising using **A/B Testing, Propensity Score Matching, Inverse Probability Weighting, Double Machine Learning, and Causal Forests**. The project combines experimental and observational approaches to estimate treatment effects and investigate how advertising effectiveness varies across users.
+
+🔗 **Repository**
+
+https://github.com/felipeandrade91/causal-inference-experimentation
 
 ---
 
