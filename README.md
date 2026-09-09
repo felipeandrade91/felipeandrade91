@@ -2,7 +2,7 @@
 
 **Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Data Engineering | Customer Analytics | Analytics Engineering | Causal Inference | Experimentation**
 
-I'm a **Data Analyst** and **PhD** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
+I'm a **Data Analyst** and **PhD** with over 10 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
 
 My scientific background has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows.
 
