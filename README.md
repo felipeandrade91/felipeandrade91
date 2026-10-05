@@ -1,65 +1,66 @@
 # Hi, I'm Felipe Andrade
 
-**Data Analyst | SQL | PostgreSQL | Python | Power BI | Machine Learning | Data Engineering | Customer Analytics | Analytics Engineering | Causal Inference | Experimentation**
+**Data Analyst | Data Scientist | SQL | Python | Power BI | Machine Learning | Customer Analytics**
 
-I'm a **Data Analyst** and **PhD** with over 10 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and analytical modeling.
+I'm a **Data Analyst and Data Scientist with a PhD**, focused on transforming complex datasets into analytical insights, predictive models, and data-driven solutions.
 
-My scientific background has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows.
+My background in scientific research has given me extensive experience in **quantitative analysis, statistical reasoning, hypothesis-driven problem solving, and reproducible analytical workflows**.
 
-Today, I apply these skills to solve business problems in **Business Intelligence, Analytics Engineering, Customer Analytics, Machine Learning, Data Engineering, and Causal Inference & Experimentation**.
+Today, I apply these skills to business problems across **Data Analytics, Business Intelligence, Customer Analytics, Statistics, and Machine Learning**.
 
-**Applying scientific rigor and analytical thinking to solve business problems through modern data analytics.**
+I also have experience building **scalable data pipelines and lakehouse architectures with Databricks, PySpark, and Delta Lake**, allowing me to work across the path from raw data to analytical and machine learning applications.
+
+> **Applying scientific rigor and analytical thinking to solve business problems through modern data analytics and data science.**
 
 ---
 
 ## Tech Stack
 
-### Analytics & Business Intelligence
+### Data Analytics & Business Intelligence
 
 * SQL
 * PostgreSQL
 * Power BI
 * DAX
-* Power Query (M)
+* Power Query
 * Analytics Engineering
+* Data Modeling
+* Star Schema
 * Customer Analytics
 * Customer Segmentation
 * Customer Lifetime Value (CLV)
-* Star Schema
-* Data Modeling
+* Data Visualization
 
-### Programming & Analytics
+### Data Science & Machine Learning
 
 * Python
 * Pandas
-* Matplotlib
-* R
-* Statistics
-* A/B Testing
-* Causal Inference
-* Treatment Effect Estimation
-* Double Machine Learning
-* Causal Forest
-* Propensity Score Matching
-* Incrementality Analysis
-* Machine Learning
 * Scikit-learn
 * XGBoost
-* FastAPI
-* REST APIs
-* Docker
-* Docker Compose
-* Model Deployment
-* Time Series Forecasting
+* Statistical Analysis
+* Statistical Inference
+* A/B Testing
+* Causal Inference
 * Predictive Modeling
+* Classification
+* Regression
+* Time Series Forecasting
 * Feature Engineering
+* Model Evaluation
+
+### Data Engineering & Deployment
+
 * PySpark
 * Databricks
 * Delta Lake
-* Data Pipelines
+* ETL / ELT
+* Data Quality
 * Medallion Architecture
 * Incremental Processing
-
+* FastAPI
+* REST APIs
+* Docker
+* Pytest
 
 ### Tools
 
@@ -74,94 +75,96 @@ Today, I apply these skills to solve business problems in **Business Intelligenc
 
 ## ⭐ Customer Analytics for Brazilian E-commerce
 
-End-to-end Analytics Engineering and Business Intelligence project built with PostgreSQL, SQL, and Power BI, featuring a Star Schema data model, SQL semantic layer, business KPIs, and interactive executive dashboards.
+End-to-end **Analytics Engineering and Business Intelligence** project built with PostgreSQL, SQL, and Power BI.
 
-🔗 **Repository**
+The project implements a Star Schema data model, SQL analytical layer, business KPIs, data quality validation, and interactive dashboards covering sales, customers, logistics, and satisfaction.
 
-https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
-
----
-
-## ⭐ NYC Taxi Data Engineering Platform
-
-End-to-end Data Engineering pipeline built with **Databricks, PySpark, and Delta Lake**, processing more than 38 million NYC Yellow Taxi trips through a Medallion Architecture. The project demonstrates scalable data ingestion, incremental processing, data quality validation, dimensional modeling, and analytical data preparation.
-
-🔗 **Repository**
-
-https://github.com/felipeandrade91/nyc-taxi-data-engineering
-
----
-
-## ⭐ Customer Segmentation & Customer Lifetime Value Analytics
-
-Customer Analytics project built with PostgreSQL, SQL, and Python, extending the previous analytical foundation through customer feature engineering, RFM segmentation, Historical Customer Lifetime Value (CLV) analysis, and business-oriented data visualization.
-
-🔗 **Repository**
-
-https://github.com/felipeandrade91/customer-segmentation-clv
+🔗 **[Repository](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce)**
 
 ---
 
 ## ⭐ Customer Churn Prediction
 
-An end-to-end Machine Learning project to predict customer churn using the IBM Telco Customer Churn dataset. The project demonstrates the complete data science workflow, including SQL data preparation, exploratory data analysis, feature engineering, predictive modeling, model evaluation and business interpretation.
+End-to-end **Machine Learning and Customer Analytics** project focused on predicting customer churn and translating model results into business insights.
 
-https://github.com/felipeandrade91/customer-churn-prediction
+The project covers SQL-based data preparation, exploratory data analysis, feature engineering, statistical analysis, classification modeling, model comparison, and business-oriented interpretation using Logistic Regression, Random Forest, and XGBoost.
+
+The trained model was subsequently extended into a containerized REST API using **FastAPI, Docker, Pydantic, and Pytest**.
+
+🔗 **[Repository](https://github.com/felipeandrade91/customer-churn-prediction)**
+🔗 **[Deployment & API](https://github.com/felipeandrade91/customer-churn-api)**
 
 ---
 
-## ⭐ Customer Churn Prediction API
+## ⭐ Customer Segmentation & Customer Lifetime Value Analytics
 
-Containerized REST API for customer churn prediction using **FastAPI, Scikit-learn, Docker, and Docker Compose**. The project demonstrates model deployment, input validation, automated testing, and containerized inference using the trained machine learning pipeline from the Customer Churn Prediction project.
+Customer Analytics project built with PostgreSQL, SQL, and Python, focused on transforming transactional data into customer-level insights.
 
-🔗 **Repository**
+The project applies **RFM segmentation, customer feature engineering, Historical Customer Lifetime Value (CLV), revenue concentration analysis, and business-oriented visualization**.
 
-https://github.com/felipeandrade91/customer-churn-api
+🔗 **[Repository](https://github.com/felipeandrade91/customer-segmentation-clv)**
 
 ---
 
 ## ⭐ Causal Inference & Experimentation
 
-A practical causal inference project evaluating the incremental impact of digital advertising using **A/B Testing, Propensity Score Matching, Inverse Probability Weighting, Double Machine Learning, and Causal Forests**. The project combines experimental and observational approaches to estimate treatment effects and investigate how advertising effectiveness varies across users.
+Data Science and statistical modeling project evaluating the incremental impact of digital advertising.
 
-🔗 **Repository**
+The project combines experimental and observational approaches using **A/B Testing, Propensity Score Matching, Inverse Probability Weighting, Double Machine Learning, and Causal Forests** to estimate treatment effects and investigate treatment heterogeneity.
 
-https://github.com/felipeandrade91/causal-inference-experimentation
-
----
-
-## ⭐ Sales Forecasting with Machine Learning - Rossmann Stores
-
-An end-to-end machine learning project for retail sales forecasting using the Rossmann Store Sales dataset. The project covers exploratory time series analysis, temporal feature engineering, regression modeling, and model interpretation using Linear Regression, Random Forest, and XGBoost.
-
-🔗 **Repository**
-
-https://github.com/felipeandrade91/sales-forecasting-rossmann
+🔗 **[Repository](https://github.com/felipeandrade91/causal-inference-experimentation)**
 
 ---
 
-## 📂 Data Analytics Portfolio
+## ⭐ Sales Forecasting with Machine Learning — Rossmann Stores
 
-A curated collection of my **Data Analytics, Business Intelligence, Analytics Engineering, Data Engineering, Machine Learning, Customer Analytics, SQL, Python, and Power BI** projects.
+End-to-end Machine Learning project for retail sales forecasting.
 
-🔗 **Repository**
+The project covers exploratory time series analysis, temporal feature engineering, regression modeling, model comparison, and interpretation using **Linear Regression, Random Forest, and XGBoost**.
 
-https://github.com/felipeandrade91/Data-Analytics-Portfolio
-
----
-
-## Scientific Background
-
-* PhD in Animal Biology (UNICAMP)
-* Postdoctoral Researcher (USP)
-* 28 peer-reviewed scientific publications
-* Description of 13 new amphibian species
-* 15+ years working with complex real-world datasets
+🔗 **[Repository](https://github.com/felipeandrade91/sales-forecasting-rossmann)**
 
 ---
 
-## Connect with Me
+## ⭐ NYC Taxi Data Engineering Platform
 
-💼 **LinkedIn**
+Scalable data engineering project built with **Databricks, PySpark, and Delta Lake**, processing more than 38 million NYC Yellow Taxi trips.
 
-https://linkedin.com/in/felipeandrade91
+The project implements a **Medallion Architecture** with Bronze, Silver, and Gold layers, including incremental processing, data quality validation, dimensional modeling, and analytical data preparation.
+
+This project demonstrates my ability to work with the **data infrastructure supporting large-scale analytics and machine learning workflows**.
+
+🔗 **[Repository](https://github.com/felipeandrade91/nyc-taxi-data-engineering)**
+
+---
+
+# 📂 Data Analytics & Data Science Portfolio
+
+A curated collection of projects covering **Data Analytics, Business Intelligence, Customer Analytics, Statistical Analysis, Machine Learning, Data Engineering, and Scientific Data Science**.
+
+The portfolio includes additional projects involving SQL, Python, Power BI, biodiversity data, exploratory analysis, statistical modeling, and data pipelines.
+
+🔗 **[Explore the Portfolio](https://github.com/felipeandrade91/Data-Analytics-Portfolio)**
+
+---
+
+# Scientific Background
+
+My transition into business-oriented data work builds on a long-standing background in quantitative scientific research.
+
+* **PhD in Animal Biology — UNICAMP**
+* **Postdoctoral Researcher — USP**
+* **28 peer-reviewed scientific publications**
+* **Description of 13 new amphibian species**
+* **15+ years working with complex real-world datasets**
+* Extensive experience in **statistical analysis, quantitative research, and reproducible workflows**
+
+This background provides a strong foundation in **analytical thinking, statistical reasoning, scientific problem solving, and working with complex datasets**.
+
+---
+
+# Connect with Me
+
+💼 **[LinkedIn](https://linkedin.com/in/felipeandrade91)**
+
+💻 **[GitHub](https://github.com/felipeandrade91)**
